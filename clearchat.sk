@@ -7,6 +7,6 @@ command /clearchat:
     trigger:
         loop 300 times:
             broadcast " "
-        broadcast "&6&m-----------------------------------------"
+        broadcast "&c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
         broadcast "&b&l&cChat has been cleared by &6%player%!"
-        broadcast "&6&m-----------------------------------------"
+        broadcast "&c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
