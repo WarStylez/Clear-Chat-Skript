@@ -2,7 +2,7 @@
 # Updated & Created by WarStylez
 
 command /clearchat:
-    description: Clear chat for all players ( by sending "" 300 times - Can be changed for longer chats or plugins ) 
+    description: Clears the chat ( sends space x300 times, this can be changed for longer chats or for servers that use chat plugins )
     permission: chatclear.clear
     trigger:
         loop 300 times:
