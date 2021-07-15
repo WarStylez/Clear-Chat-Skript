@@ -1,0 +1,12 @@
+
+# Updated & Created by WarStylez
+
+command /clearchat:
+    description: Clears the chat ( sends space x300 times, this can be changed for longer chats or for servers that use chat plugins )
+    permission: chatclear.clear
+    trigger:
+        loop 300 times:
+            broadcast " "
+        broadcast "&c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        broadcast "&b&l&cChat has been cleared by &6%player%!"
+        broadcast "&c━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
