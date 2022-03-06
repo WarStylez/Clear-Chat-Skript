@@ -7,17 +7,9 @@
 <h3 align=center>A clear chat skript for minecraft server(s)</h3>
 
 
-<p align="center">
-  <a href="#about">About</a>
-  •
-  <a href="#Features">My other projects</a>
-  •
-  <a href="#credits">Credits</a>
-</p>
-
 ## ❓ About
 
-This is a very small clear chat command skript for minecraft server(s). - MIT License 
+This is a very small clear chat command skript for minecraft server(s), No requirements. - MIT License 
 Last updated: 09/03/2021 
 
 
